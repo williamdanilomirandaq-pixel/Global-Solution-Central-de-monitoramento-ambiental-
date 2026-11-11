@@ -1,0 +1,55 @@
+CENTRAL DE MONITORAMENTO AMBIENTAL DA COMUNIDADE
+RELATORIO DE EXEMPLO - SIMULACAO COM 10 LEITURAS
+
+Ambiente: entorno de uma escola ficticia em Sao Paulo - SP
+Contexto: regiao urbana com comercio, carros, onibus e circulacao de pedestres.
+Publico que circula: criancas, jovens, adultos e idosos.
+
+LIMITES DE REFERENCIA UTILIZADOS
+Temperatura: minimo de 18 °C e maximo de 30 °C (faixa didatica definida pelo grupo).
+PM2,5: maximo de 15 µg/m³, considerando a media de 24 horas (referencia OMS 2021 / valor-guia final CONAMA 506/2024).
+Ruido: maximo de 50 dB no periodo diurno (referencia ABNT NBR 10151:2019 para areas de escolas).
+Periodo dos valores simulados: cada valor de PM2,5 representa a media de 24 horas; cada valor de ruido representa o periodo diurno.
+
+VALORES REGISTRADOS
+Leitura 1 - Temperatura: 24 °C | PM2,5: 8 µg/m³ | Ruido: 42 dB
+Leitura 2 - Temperatura: 31 °C | PM2,5: 12 µg/m³ | Ruido: 48 dB
+Leitura 3 - Temperatura: 27 °C | PM2,5: 18 µg/m³ | Ruido: 52 dB
+Leitura 4 - Temperatura: 17 °C | PM2,5: 10 µg/m³ | Ruido: 45 dB
+Leitura 5 - Temperatura: 29 °C | PM2,5: 14 µg/m³ | Ruido: 55 dB
+Leitura 6 - Temperatura: 22 °C | PM2,5: 16 µg/m³ | Ruido: 47 dB
+Leitura 7 - Temperatura: 26 °C | PM2,5: 9 µg/m³ | Ruido: 49 dB
+Leitura 8 - Temperatura: 30 °C | PM2,5: 15 µg/m³ | Ruido: 50 dB
+Leitura 9 - Temperatura: 28 °C | PM2,5: 11 µg/m³ | Ruido: 44 dB
+Leitura 10 - Temperatura: 25 °C | PM2,5: 13 µg/m³ | Ruido: 46 dB
+
+RESULTADO DE CADA LEITURA
+Leitura 1: dentro dos limites adotados.
+Leitura 2: Temperatura fora da faixa.
+Leitura 3: PM2,5 acima do limite; Ruído acima do limite.
+Leitura 4: Temperatura fora da faixa.
+Leitura 5: Ruído acima do limite.
+Leitura 6: PM2,5 acima do limite.
+Leitura 7: dentro dos limites adotados.
+Leitura 8: dentro dos limites adotados.
+Leitura 9: dentro dos limites adotados.
+Leitura 10: dentro dos limites adotados.
+
+ESTATISTICAS
+Temperatura - media: 25.90 °C; maior: 31 °C; menor: 17 °C.
+PM2,5 - media: 12.60 µg/m³; maior: 18 µg/m³; menor: 8 µg/m³.
+Ruido - media aritmetica simplificada: 47.80 dB; maior: 55 dB; menor: 42 dB.
+
+OCORRENCIAS CRITICAS
+Temperatura: 2
+PM2,5: 2
+Ruido: 2
+Leituras com pelo menos uma condicao critica: 5
+Percentual de leituras criticas: 50.00%
+
+Estado geral: condições ambientais de atenção, com frequência de ocorrências acima do critério estabelecido.
+
+Observacao: este relatorio apresenta uma simulacao baseada nos criterios adotados pelo grupo. Nao representa certificacao de seguranca ambiental nem substitui uma avaliacao tecnica do local.
+Nota: a media aritmetica dos valores de ruido e apenas uma estatistica simplificada; nao equivale a uma avaliacao acustica tecnica (Leq).
+
+FIM DO RELATORIO
